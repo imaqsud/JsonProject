@@ -1,0 +1,13 @@
+{
+  "tech": {
+
+    "progLang": ["C", "C++", "Java", "Python", "Node.js", "PHP"],
+    "dbLang": ["MongoDB", "MySQL", "Elaticsearch", "Solr"],
+    "os": ["macOs", "Linux"],
+    "product": ["JIRA", "jenkins", "oauth", "maven", "gradle"]
+  },
+
+  "extraInterest": ["Maths", "English", "Physics"],
+
+  "enhances": ["Education", "Children", "Women Empowerment"]
+}
