@@ -1,0 +1,25 @@
+{
+
+  "states": ["Karnataka", "Delhi", "West Bengal", "Bihar", "UP", "Haryana", "Punjab", "Himachal Pradesh"],
+
+  "cities": [
+
+    "Bangalore",
+    "Shimla",
+    "Delhi",
+    "Kolkata",
+    "Manali",
+    "Mysore"
+  ],
+
+  "favourites": {
+
+    "bangalore": ["Weather", "Culture", "Places"],
+    "shimla": ["Weather", "Culture", "Places"],
+    "delhi": ["Weather", "Culture", "Places"],
+    "kolkata": ["Weather", "Culture", "Places"],
+    "manali": ["Weather", "Culture", "Places"],
+    "mysore": ["Weather", "Culture", "Places"]
+  }
+
+}
