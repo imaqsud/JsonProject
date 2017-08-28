@@ -1,11 +1,11 @@
-#####Introduction#####
+INTRODUCTION
 
 This is a json project for doing all the json things here.
 
-#####Profile#####
+PROFILE
 
-[https://www.linkedin.com/in/maiq95/]LinkedIn
+https://www.linkedin.com/in/maiq95/
 
-#####Contact#####
+CONTACT
 
 maqsud.ilteja86@gmail.com
