@@ -1,0 +1,35 @@
+{
+
+  "1":
+  {
+    "name": "Mohammad",
+    "company": "Sprinklr",
+    "designation": "Product Engineer",
+    "address": {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "pin": 122002
+    },
+    "mobile":[
+      8894380067, 9882989596
+    ]
+  },
+
+  "2":
+  {
+    "name": "Mohammad",
+    "company": "Sprinklr",
+    "designation": "Product Engineer",
+    "address": {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "pin": 122002
+    },
+    "mobile":[
+      8894380067, 9882989596
+    ]
+  },
+
+  "placed": ["Playbuff", "Oracle", "Sprinklr"]
+
+}
